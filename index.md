@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Spanish Project](https://github.com/JackHuhs/SpanishNewsProjectBeta/tree/main)
+[Language Project](https://github.com/JackHuhs/SpanishNewsProjectBeta/tree/main)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

@@ -1,1 +1,1 @@
-My github portfolio containing my completed projects.
+Github portfolio containing my completed projects.

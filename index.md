@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Language Project](https://github.com/JackHuhs/SpanishNewsProjectBeta/tree/main)
-<img src="images/fritos.jpg?raw=true"/>
+[Project 1](http://example.com)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2](/pdf/sample_presentation.pdf)

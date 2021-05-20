@@ -15,9 +15,9 @@
 [Project 3](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-<!-- Another Group Name, same format as Chemistry Models-->
+
+<!-- Another Group Name, same format as Chemistry Models, make sure to have a line in between using "---" -->
 
 ---
 

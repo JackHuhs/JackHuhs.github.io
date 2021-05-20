@@ -17,7 +17,7 @@
 
 
 
-<!-- Another Group Name, same format as Chemistry Models, make sure to have a line in between using "---" -->
+<!-- Another Group Name, same format as Chemistry Models, make sure to have a line in between and header 2 using "---" -->
 
 ---
 

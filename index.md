@@ -16,7 +16,7 @@ Portfolio
 [VSEPR Model](https://github.com/JackHuhs/VSEPR-Model) 
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+
 
 
 

@@ -3,7 +3,7 @@ Portfolio
 <br>
 
 
-### Chemistry Models
+### Chemistry Models.
 
 ---
 

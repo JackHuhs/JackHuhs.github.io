@@ -2,8 +2,8 @@
 
 ---
 
-### Chemistry Models
-<br></br>
+### Chemistry Models  
+
 
 [Percent Composition Calculator](http://example.com)  
 

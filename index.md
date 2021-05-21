@@ -3,7 +3,7 @@ Portfolio
 <br>
 
 
-### Chemistry Models 
+### Chemistry Models. 
 
 [Percent Composition Calculator](http://example.com) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

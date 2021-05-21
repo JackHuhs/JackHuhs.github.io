@@ -4,15 +4,15 @@
 
 ### Chemistry Models
 
-[Project 1](http://example.com)
+[Percent Composition Calculator](http://example.com)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2](/pdf/sample_presentation.pdf)
+[Percent Composition Model](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3](http://example.com/)
+[VSEPR Model](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
